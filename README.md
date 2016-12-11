@@ -6,3 +6,4 @@
       • StoryTime 
           - Multilingual (English, French, Arabic, more?)
    
+Made with Raspberry Pi + Teddy Bear + Love 
